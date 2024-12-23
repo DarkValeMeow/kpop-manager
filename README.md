@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.10.6-blue.svg) ![SQLite3](https://img.shields.io/badge/sqlite3-database-brightgreen.svg)
 
-This repository contains the implementation of the **"Favorite Songs Manager"**, developed in **Python** using **SQLite3** for database management. The project was created as part of coursework to demonstrate the creation and use of relational databases with structured data.
+This repository contains the implementation of the **"K-pop Manager"**, developed in **Python** using **SQLite3** for database management. The project was created as part of coursework to demonstrate the creation and use of relational databases with structured data.
 
 ## 📖 Project Overview
 The **Favorite Songs Manager** is a relational database designed to manage information about:
